@@ -1,1 +1,1 @@
-Ground truth workspace for blog-engine task
+Groundtruth data for blog-engine

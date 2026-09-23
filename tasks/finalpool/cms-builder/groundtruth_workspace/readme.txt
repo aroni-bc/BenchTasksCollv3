@@ -1,1 +1,1 @@
-Ground truth workspace for cms-builder task
+Groundtruth data for cms-builder

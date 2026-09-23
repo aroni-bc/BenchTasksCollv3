@@ -1,1 +1,1 @@
-Ground truth workspace for coupon-manager task
+Groundtruth data for coupon-manager
